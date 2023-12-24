@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sarvagya Dwivedi</h1>
-<h3 align="center">A passionate Software and Web Developer</h3>
 
-![sarvagyaGadha](https://github.com/Sarvagya2071/Sarvagya2071/assets/67305190/f0ed7ddd-8ecb-4751-8705-c5674513650f)
+![SARVAGYA DWIVEDI](https://github.com/Sarvagya2071/Sarvagya2071/assets/67305190/1a7ef34a-b24e-4fea-968d-7886355fab2b)
+
+<h1 align="center">Hi 👋, I'm Sarvagya Dwivedi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h3 align="center">A passionate Software and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagya2071&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagya2071" /> </p>
 
