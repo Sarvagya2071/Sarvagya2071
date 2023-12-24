@@ -1,5 +1,4 @@
-
-![SARVAGYA DWIVEDI](https://github.com/Sarvagya2071/Sarvagya2071/assets/67305190/1a7ef34a-b24e-4fea-968d-7886355fab2b)
+![ezgif-1-06a4791d3f](https://github.com/Sarvagya2071/Sarvagya2071/assets/67305190/da8acbe5-0d1b-4d37-83d5-dd8dcbbfc9ad)
 
 <h1 align="center">Hi 👋, I'm Sarvagya Dwivedi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A passionate Software and Web Developer</h3>
